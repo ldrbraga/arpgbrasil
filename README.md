@@ -1,1 +1,1 @@
-Um projeto clone praticar
+Um projeto clone para praticar
