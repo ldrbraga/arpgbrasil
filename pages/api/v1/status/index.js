@@ -1,7 +1,5 @@
 function status(request, response) {
-  response
-    .status(200)
-    .json({ chave: "Alunos do curso.dev são pessias acima da média" });
+  response.status(200).json({ chave: "value" });
 }
 
 export default status;
